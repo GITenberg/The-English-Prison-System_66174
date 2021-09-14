@@ -1,5 +1,8 @@
 _repo: The-English-Prison-System_66174
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 66174-h/images/cover.jpg
 creator:
   author:
     agent_name: Ruggles-Brise, Evelyn, Sir
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/53668
     wikipedia: https://en.wikipedia.org/wiki/Evelyn_Ruggles-Brise
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66174#The-English-Prison-System
 gutenberg_issued: '2021-08-30'
 identifiers:
   gutenberg: '66174'
